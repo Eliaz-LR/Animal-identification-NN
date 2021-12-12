@@ -5,3 +5,4 @@ Dataset/.DS_Store
 *.jpg
 *.png
 *.jpeg
+dataset/translate.py
