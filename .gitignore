@@ -6,3 +6,5 @@ Dataset/.DS_Store
 *.png
 *.jpeg
 dataset/translate.py
+*.pkl
+*.npy
